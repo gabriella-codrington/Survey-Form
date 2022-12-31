@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://i.pinimg.com/736x/ce/f4/74/cef474d436195a835c33688eb569e026.jpg);
+  width
+  color: black;
+  font-family: Helvetica,sans-serif; 
+}
+
+.survey {
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+  width: 300px;
+}
+
+h1 {
+  color: #FFAE5D;
+  font-family: sans-serif;
+}
+
+h1, p {
+  text-align: center;
+}
+
+fieldset {
+  border: none;
+  padding: 2rem 0;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+input, textarea, select {
+  background-color: #EFF0F1;
+  padding: 5px;
+  border: none;
+  margin: 10px 0 0 0;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #FFAE5D;
+  color: white;
+  min-width: 300px;
+}
